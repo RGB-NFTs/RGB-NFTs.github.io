@@ -1,0 +1,201 @@
+.mediaViewInfo {
+	--web-view-name: landingpage;
+	--web-view-id: landingpage;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: landingpage;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+
+body {
+   transform: scale(0.991);
+   transform-origin: 0 0;
+   // add prefixed versions too.
+}
+#landingpage {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: landingpage;
+	--web-view-id: landingpage;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Raggruppa_1 {
+	opacity: 0.65;
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rettangolo_1 {
+	fill: rgba(0,255,0,1);
+}
+.Rettangolo_1 {
+	position: absolute;
+	overflow: visible;
+	width: 640px;
+	height: 1080px;
+	left: 640px;
+	top: 0px;
+}
+#Rettangolo_2 {
+	fill: rgba(0,0,255,1);
+}
+.Rettangolo_2 {
+	position: absolute;
+	overflow: visible;
+	width: 640px;
+	height: 1080px;
+	left: 1280px;
+	top: 0px;
+}
+#Rettangolo_3 {
+	fill: rgba(255,0,0,1);
+}
+.Rettangolo_3 {
+	position: absolute;
+	overflow: visible;
+	width: 640px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_5 {
+	filter: blur(50px);
+	fill: rgba(255,255,255,0);
+}
+.Rettangolo_5 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_6 {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(255,255,255,1);
+	stroke-width: 15px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rettangolo_6 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 2020px;
+	height: 172px;
+	left: -44px;
+	top: -51px;
+}
+#RGB_NFTs {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 147px;
+	top: 26px;
+	position: absolute;
+	overflow: visible;
+	width: 212px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Acumin Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 46px;
+	color: rgba(255,0,0,1);
+}
+#FAQs {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 1677px;
+	top: 30px;
+	position: absolute;
+	overflow: visible;
+	width: 92px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Acumin Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 38px;
+	color: rgba(255,255,255,1);
+}
+#ID8192_unique_and_randomly_gen {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.78));
+	left: 369px;
+	top: 357px;
+	position: absolute;
+	overflow: visible;
+	width: 1177px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Acumin Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(255,255,255,1);
+}
+#Rettangolo_7 {
+	fill: rgba(0,0,0,1);
+}
+.Rettangolo_7 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.259));
+	position: absolute;
+	overflow: visible;
+	width: 155px;
+	height: 89px;
+	left: 570px;
+	top: 779px;
+}
+#Rettangolo_8 {
+	fill: rgba(0,0,0,1);
+}
+.Rettangolo_8 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.259));
+	position: absolute;
+	overflow: visible;
+	width: 311px;
+	height: 89px;
+	left: 1118px;
+	top: 779px;
+}
+#BUY {
+	left: 600px;
+	top: 798px;
+	position: absolute;
+	overflow: visible;
+	width: 78px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Acumin Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 38px;
+	color: rgba(255,255,255,1);
+}
+#LEARN_MORE {
+	left: 1141px;
+	top: 798px;
+	position: absolute;
+	overflow: visible;
+	width: 249px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Acumin Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 38px;
+	color: rgba(255,255,255,1);
+}
