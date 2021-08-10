@@ -1,0 +1,132 @@
+.mediaViewInfo {
+	--web-view-name: faqs;
+	--web-view-id: faqs;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: faqs;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#faqs {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: faqs;
+	--web-view-id: faqs;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Rettangolo_6 {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(255,255,255,1);
+	stroke-width: 15px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rettangolo_6 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 2020px;
+	height: 172px;
+	left: -44px;
+	top: -51px;
+}
+#RGB_NFTs {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 147px;
+	top: 26px;
+	position: absolute;
+	overflow: visible;
+	width: 212px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Acumin Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 46px;
+	color: rgba(255,0,0,1);
+}
+#FAQs_j {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 1677px;
+	top: 30px;
+	position: absolute;
+	overflow: visible;
+	width: 92px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Acumin Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 38px;
+	color: rgba(255,255,255,1);
+}
+#How_were_RGB_NFTs_created {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.78));
+	left: 668px;
+	top: 190.25px;
+	position: absolute;
+	overflow: visible;
+	width: 586px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Acumin Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 43px;
+	color: rgba(0,0,0,1);
+}
+#What_about_the_rare_NFTs {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.78));
+	left: 699px;
+	top: 538.25px;
+	position: absolute;
+	overflow: visible;
+	width: 524px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Acumin Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 43px;
+	color: rgba(0,0,0,1);
+}
+#RGB_NFTs_were_created_with_a_P {
+	left: 454px;
+	top: 252.75px;
+	position: absolute;
+	overflow: visible;
+	width: 1013px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Acumin Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 31px;
+	color: rgba(0,0,0,1);
+}
+#The_52_Rare_NFTs_are_the_ones_ {
+	left: 235px;
+	top: 600.75px;
+	position: absolute;
+	overflow: visible;
+	width: 1451px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Acumin Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 31px;
+	color: rgba(0,0,0,1);
+}
