@@ -13,6 +13,11 @@
 	box-sizing: border-box;
 	border: none;
 }
+
+@font-face { font-family: Acumin Pro; src: url('Acumin-RPro.otf'); } 
+@font-face { font-family: Acumin Pro; font-weight: bold; src: url('Acumin-BdPro.otf');}
+@font-face { font-family: Acumin Pro; font-weight: italic; src: url('Acumin-BdItPro.otf');}
+
 #faqs {
 	position: absolute;
 	width: 1920px;

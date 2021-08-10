@@ -14,6 +14,11 @@
 	border: none;
 }
 
+@font-face { font-family: Acumin Pro; src: url('Acumin-RPro.otf'); } 
+@font-face { font-family: Acumin Pro; font-weight: bold; src: url('Acumin-BdPro.otf');}
+@font-face { font-family: Acumin Pro; font-weight: italic; src: url('Acumin-BdItPro.otf');}
+
+
 body {
    transform: scale(0.991);
    transform-origin: 0 0;
